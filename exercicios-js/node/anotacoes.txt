@@ -1,0 +1,4 @@
+No arquivo 'usandoModulosTerceiros.js' utlizamos a biblioteca lodash.
+Lodash é uma biblioteca Javascript que fornece um conjunto de funções para que a pessoa programadora possa trabalhar com mais facilidade em tarefas que envolvam a manipulação de matrizes, strings, objetos, números, etc.
+
+No arquivo 'usandoModulosTerceiros.js' utlizamos a biblioteca nodemon. Esse módulo é um utilitário que irá monitorar todas as alterações nos arquivos de sua aplicação e reiniciar automaticamente o servidor quando for necessário.
